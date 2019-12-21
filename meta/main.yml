@@ -1,6 +1,6 @@
 galaxy_info:
   author: Chukwudi Uzoma
-  description: Solutions Architect
+  description: Installs mysql db
   company: Zodecinol
 
   # If the issue tracker for your role is not on github, uncomment the
